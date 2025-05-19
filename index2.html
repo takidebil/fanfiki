@@ -112,7 +112,6 @@
   <!-- Sekcja do wczytywania pliku -->
   <div class="file-reader">
     <h2>Wczytaj plik</h2>
-    <input type="file" id="fileInput" accept=".txt">
     <div id="fileDisplayArea" class="file-content"></div>
   </div>
 
@@ -121,7 +120,7 @@
         reader.open('GET', 'text.txt', true);
         reader.onreadystatechange = function() {
             if(reader.readyState === 4 && reader.status === 200) {
-                document.getElementById('output').innerHTML = reader.responseText;
+                document.getElementById('fileDisplayArea').innerHTML = reader.responseText;
             }
         };
         reader.send();
