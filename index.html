@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="output"></div>
+
+    <script>
+        const reader = new XMLHttpRequest();
+        reader.open('GET', 'text.txt', true);
+        reader.onreadystatechange = function() {
+            if(reader.readyState === 4 && reader.status === 200) {
+                document.getElementById('output').innerHTML = reader.responseText;
+            }
+        };
+        reader.send();
+    </script>
+</body>
+</html>
