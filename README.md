@@ -1,1 +1,1 @@
-jebać czarnych
+### Strona z fanficami
