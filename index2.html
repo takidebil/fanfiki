@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historie Miłosza</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Chewy&family=DynaPuff:wght@400..700&family=Rubik+Spray+Paint&display=swap');
+    /* Czcionka */
+    * {
+      font-size: larger;
+      font-family: DynaPuff;
+    }
+    /* Kolory */
+    :root {
+      --SpaceCadet: #22223B;
+      --UltraViolet: #4A4E69;
+      --RoseQuartz: #9A8C98;
+      --PaleDogwood: #C9ADA7;
+      --Isabelline: #F2E9E4;
+    }
+    /* Styl ogólny */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: var(--UltraViolet);
+    }
+    /* Nagłówek */
+    header {
+      background-color: var(--UltraViolet);
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: var(--Isabelline);
+      margin: 0;
+      font-size: 2em;
+    }
+    header a {
+      color: var(--RoseQuartz);
+      text-decoration: none;
+      font-weight: bold;
+      margin: 30px;
+      margin-top: 10px;
+      display: inline-block;
+      transition: color 0.3s ease-in-out;
+    }
+    header a:hover {
+      color: var(--Isabelline);
+    }
+    .fanfik {
+      color: #22223B;
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    /* Główna sekcja */
+    div {
+      color: #22223B;
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    body div h1 {
+      color: var(--SpaceCadet);
+      font-size: xx-large;
+    }
+    body div h4 {
+      color: var(--UltraViolet);
+      font-size: x-large;
+    }
+    /* Styl dla sekcji wyświetlania pliku */
+    .file-reader {
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    .file-reader input {
+      margin-bottom: 10px;
+    }
+    .file-content {
+      white-space: pre-wrap; /* Umożliwia zachowanie białych znaków i podziałów linii */
+      background-color: #eaeaea;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Historie Miłosza</h1>
+    <a href="galery.html">Galeria</a>
+    <a href="index.html">Fanfiki</a>
+  </header>
+
+  <div class="fanfik">
+    <h1>ROZDZIAŁ 1</h1>
+    <h4>ajwdoajio</h4>
+  </div>
+
+  <!-- Sekcja do wczytywania pliku -->
+  <div class="file-reader">
+    <h2>Wczytaj plik</h2>
+    <input type="file" id="fileInput" accept=".txt">
+    <div id="fileDisplayArea" class="file-content"></div>
+  </div>
+
+  <script>
+    const reader = new XMLHttpRequest();
+        reader.open('GET', 'text.txt', true);
+        reader.onreadystatechange = function() {
+            if(reader.readyState === 4 && reader.status === 200) {
+                document.getElementById('output').innerHTML = reader.responseText;
+            }
+        };
+        reader.send();
+  </script>
+</body>
+</html>
