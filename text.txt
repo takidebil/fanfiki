@@ -1,5 +1,7 @@
 <h1>Rozdział 1</h1>
-<p>test</p>
+<p id="title"> - Kompilujmy się razem</p>
+<p>Miłosz Rębisz był typem programisty, który nie wychodził z terminala nawet po północy. Miał Zawsze kubek z zimną kawą po lewej stronie laptopa i wkurzający nawyk poprawiania kodu innych - ale Marcin Ptaszek go za to uwielbiał.</p>
 
 <h1>Rozdział 2</h1>
-<p>test</p>
+<p id="title"> - Intymne API</p>
+<p>Była sobota, deszcz walił w szyby jak nieskończona pętla while(true). Miłosz siedział na kanapie w dresie, z laptopem na kolanach, analizując kod, który Marcin wysłał w nocy. Był genialny, ale też... zostawił w nim wiadomość:</p>
