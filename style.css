@@ -122,3 +122,10 @@ a {
   margin-bottom: 0px;
   font-weight: bold;
 }
+
+span {
+   display: inline-block;
+   margin-left: 2em;
+   font-size: 20px;
+   font-style:oblique;
+}
