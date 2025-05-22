@@ -17,7 +17,7 @@ Miłosz był namiętny, odważny, lubił mieć kontrolę - w kodzie i poza nim. 
 Pewnego dnia, podczas hackathonu, Miłosz napisał program, który na pierwszy rzut oka był zwykłą aplikacją pogodową. Ale kiedy Marcin wpisał swoje imię, na ekranie wyświetliło się:<br><br>
 
 <span>
-"Jesteś moją ulubioną zmienną, której nigdy nie nadpiszę."
+"Jesteś moją ulubioną zmienną, której nigdy nie nadpiszę."<br>
 </span><br><br>
 
 I wtedy Miłosz uklęknął - nie po to, by oświadczyć się (jeszcze), ale by pocałować go w najbardziej grzeszny sposób, jaki da się opisać w JavaScript.
@@ -29,19 +29,19 @@ I wtedy Miłosz uklęknął - nie po to, by oświadczyć się (jeszcze), ale by 
 Była sobota, deszcz walił w szyby jak nieskończona pętla while(true). Miłosz siedział na kanapie w dresie, z laptopem na kolanach, analizując kod, który Marcin wysłał w nocy. Był genialny, ale też… zostawił w nim wiadomość:<br><br>
 
 <span>
-// Dla Miłosza. Nie mogłem spać. Myślałem o tobie... i o tym, co zrobiliśmy ostatnio.
+// Dla Miłosza. Nie mogłem spać. Myślałem o tobie... i o tym, co zrobiliśmy ostatnio.<br>
 </span><br><br>
 
 Miłosz uśmiechnął się pod nosem. Nie odpisał. Wstał, założył koszulkę (bez spodni – standard), i zadzwonił do Marcina.<br><br>
 
 <span>
-– “Masz chwilę? Debuguję coś, co musisz zobaczyć… osobiście.”
+– “Masz chwilę? Debuguję coś, co musisz zobaczyć… osobiście.”<br>
 </span><br><br>
 
 Dwadzieścia minut później Marcin już był u niego. Przemoknięty, z laptopem w ręku i rumieńcem na policzkach. Ale zanim zdążył coś powiedzieć, Miłosz chwycił go za bluzę i przyciągnął do siebie.<br><br>
 
 <span>
-– “Nie chodzi o kod, Marcin. Chodzi o ciebie.”
+– “Nie chodzi o kod, Marcin. Chodzi o ciebie.”<br>
 </span><br><br>
 
 Pocałunek był głęboki, mokry, tak jak ich pragnienie. Miłosz popchnął go delikatnie na ścianę, ręce Marcina zaczęły błądzić po jego plecach, aż po linię bioder. Ich oddechy przyspieszyły, jakby procesor się przegrzewał. A potem…<br><br>
@@ -49,7 +49,7 @@ Pocałunek był głęboki, mokry, tak jak ich pragnienie. Miłosz popchnął go 
 Miłosz przesunął dłonią po guzikach Marcina, jakby pisał najintymniejszy skrypt. Jednym ruchem rozpiął mu bluzę, drugą ręką rozsunął suwak jego spodni.<br><br>
 
 <span>
-– “Zaraz ci pokażę nową funkcję… prywatną.” – wyszeptał Miłosz do ucha.
+– “Zaraz ci pokażę nową funkcję… prywatną.” – wyszeptał Miłosz do ucha.<br>
 </span><br><br>
 
 Marcin jęknął, miękko opierając się o framugę. Był cały dla niego – miękki jak RAM po czyszczeniu, gotowy jak serwer po restarcie.<br><br>
@@ -65,7 +65,7 @@ Tamtej nocy nie było już kodu – tylko oni, skompilowani razem w jednym ciele
 Marcin leżał na łóżku Miłosza, rozpięta bluza ledwo trzymała się na jego ramionach, a oczy błyszczały pożądaniem. Miłosz, klęcząc nad nim, wpatrywał się w jego ciało jak w najpiękniejszy kod źródłowy, który pragnął poznać linijka po linijce.<br><br>
 
 <span>
-– „Dziś nie będzie żadnych warunków, żadnych ifów. Tylko czyste wykonanie.” – szepnął Miłosz, przesuwając palcami po nagim torsie Marcina.
+– „Dziś nie będzie żadnych warunków, żadnych ifów. Tylko czyste wykonanie.” – szepnął Miłosz, przesuwając palcami po nagim torsie Marcina.<br>
 </span><br><br>
 
 Zsunął mu spodnie jednym ruchem, jakby odpalał skrypt bez pytania o zgodę. A potem jego język zjechał powoli od szyi w dół, badając każdy fragment skóry, zostawiając za sobą ciepły ślad – jak echo echo w nieskończonej pętli przyjemności.<br><br>
@@ -73,14 +73,14 @@ Zsunął mu spodnie jednym ruchem, jakby odpalał skrypt bez pytania o zgodę. A
 Marcin jęknął cicho, a jego dłonie wplotły się we włosy Miłosza.<br><br>
 
 <span>
-– „Boże, Miłosz… ja…”
-– „Nie mów nic. Przepisuję cię. Na własność.”
+– „Boże, Miłosz… ja…”<br>
+– „Nie mów nic. Przepisuję cię. Na własność.”<br>
 </span><br><br>
 
 Miłosz objął ustami to, co tak długo skrywało się pod materiałem. Powoli, z wyczuciem, jakby chciał nauczyć się go na pamięć. Marcina ciało drżało pod jego dotykiem, biodra unosiły się mimowolnie, jakby błagały o więcej.<br><br>
 
 <span>
-– „Nie zatrzymuj się…” – wysapał Marcin.
+– „Nie zatrzymuj się…” – wysapał Marcin.<br>
 </span><br><br>
 
 Miłosz był delikatny, ale pewny siebie. Wiedział, co robi. Wiedział, gdzie dotknąć, jak ugryźć, gdzie przycisnąć, żeby Marcin zadrżał jak niekompilujący się projekt o trzeciej nad ranem.<br><br>
@@ -88,7 +88,7 @@ Miłosz był delikatny, ale pewny siebie. Wiedział, co robi. Wiedział, gdzie d
 Potem sięgnął po lubrykant, posmarował dwa palce i wpił się w usta Marcina, zanim powoli wsunął je tam, gdzie dostęp był zarezerwowany tylko dla niego. Marcin zgiął się lekko, jęcząc głośniej, nogi oplatając wokół Miłosza.<br><br>
 
 <span>
-– „Chcę cię… teraz.”
+– „Chcę cię… teraz.”<br>
 </span><br><br>
 
 Miłosz nie potrzebował więcej słów. Nałożył prezerwatywę z wprawą, jakby zakładał bezpieczne połączenie do bazy danych. I wszedł w niego – powoli, z pełną kontrolą, aż do samego końca.<br><br>
@@ -100,7 +100,7 @@ Było ostro. Brutalnie pięknie. Ręce ściskały prześcieradła, ciała zlewa�
 Po wszystkim Miłosz opadł obok, całując Marcina w kark.<br><br>
 
 <span>
-– „To był najlepszy merge, jaki kiedykolwiek zrobiłem.”
-– „Zatwierdzam bez review…” – odpowiedział Marcin, ledwo łapiąc oddech.
+– „To był najlepszy merge, jaki kiedykolwiek zrobiłem.”<br>
+– „Zatwierdzam bez review…” – odpowiedział Marcin, ledwo łapiąc oddech.<br>
 </span>
 </p>
