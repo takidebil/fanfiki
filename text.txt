@@ -1,4 +1,4 @@
-<h1>Rozdział 1</h1>
+<h1 id="1">Rozdział 1</h1>
 <p id="title"> - Kompilujmy się razem</p>
 <p>
 Miłosz Rębisz był typem programisty, który nie wychodził z terminala nawet po północy. Miał Zawsze kubek z zimną kawą po lewej stronie laptopa i wkurzający nawyk poprawiania kodu innych - ale Marcin Ptaszek go za to uwielbiał. <br><br>
@@ -23,7 +23,7 @@ Pewnego dnia, podczas hackathonu, Miłosz napisał program, który na pierwszy r
 I wtedy Miłosz uklęknął - nie po to, by oświadczyć się (jeszcze), ale by pocałować go w najbardziej grzeszny sposób, jaki da się opisać w JavaScript.
 </p>
 
-<h1>Rozdział 2</h1>
+<h1 id="2">Rozdział 2</h1>
 <p id="title"> - Intymne API</p>
 <p>
 Była sobota, deszcz walił w szyby jak nieskończona pętla while(true). Miłosz siedział na kanapie w dresie, z laptopem na kolanach, analizując kod, który Marcin wysłał w nocy. Był genialny, ale też… zostawił w nim wiadomość:<br><br>
@@ -59,7 +59,7 @@ Zniknęli w sypialni, gdzie jedynym językiem był język ciała. Szepty, westch
 Tamtej nocy nie było już kodu – tylko oni, skompilowani razem w jednym ciele.
 </p>
 
-<h1>Rozdział 3</h1>
+<h1 id="3">Rozdział 3</h1>
 <p id="title"> - Bezpieczne Połączenie</p>
 <p>
 Marcin leżał na łóżku Miłosza, rozpięta bluza ledwo trzymała się na jego ramionach, a oczy błyszczały pożądaniem. Miłosz, klęcząc nad nim, wpatrywał się w jego ciało jak w najpiękniejszy kod źródłowy, który pragnął poznać linijka po linijce.<br><br>
@@ -105,7 +105,7 @@ Po wszystkim Miłosz opadł obok, całując Marcina w kark.<br><br>
 </span>
 </p>
 
-<h1>Rozdział 4</h1>
+<h1 id="4">Rozdział 4</h1>
 <p id="title"> - Zmienne temperatury</p>
 <p>
 Wszystko zaczęło się od tego, że Marcin wpadł do Miłosza po treningu. Spocony, rozgrzany, w przylegającej koszulce i legginsach, które nie zostawiały wiele wyobraźni.<br><br>
@@ -168,7 +168,7 @@ Obaj osunęli się na podłogę kabiny. Zmęczeni. Wyczerpani. Przekompilowani.<
 </span>
 </p>
 
-<h1>Rozdział 5</h1>
+<h1 id="5">Rozdział 5</h1>
 <p id="title"> - Reset systemu</p>
 <p>
 Ostatnie dni były dziwne.<br><br>
@@ -247,7 +247,7 @@ Po wszystkim leżeli razem. Bez słów. Miłosz objął go ramieniem, przyciągn
 </span>
 </p>
 
-<h1>Rozdział 6</h1>
+<h1 id="6">Rozdział 6</h1>
 <p id="title"> - Między klamrą a sercem</p>
 <p>
 
@@ -301,7 +301,7 @@ Po wszystkim nie mówili nic. Ale nie musieli.<br><br>
 System był naprawiony. Miłość – zalogowana na nowo.
 </p>
 
-<h1>Rozdział 7</h1>
+<h1 id="7">Rozdział 7</h1>
 <p id="title"> - Echo dzieciństwa</p>
 <p>
 
@@ -366,7 +366,7 @@ I właśnie wtedy, obok siebie, bez dotyku, bez pożądania – byli najbliżej,
 
 
 
-<h1>Rozdział 8</h1>
+<h1 id="8">Rozdział 8</h1>
 <p id="title"> - Zderzenie światów | (trzeci gracz)</p>
 <p>
 
@@ -406,7 +406,7 @@ Późnym wieczorem, gdy Aleks wyszedł, zapadła cisza.<br><br>
 Marcin skinął głową. Ale coś w jego sercu już się rozregulowało. Nie przez Aleksa - ale przez <b>siebie.</b> Przez swoje lęki.<br><br>
 </p>
 
-<h1>Rozdział 9</h1>
+<h1 id="9">Rozdział 9</h1>
 <p id="title"> - Zawieszenie</p>
 <p>
 
@@ -481,7 +481,7 @@ I wtedy zasnęli. Prawdziwie. Bez udawania. Zmęczeni walką, ale w tym samym ł
 
 
 
-<h1>Rozdział 10</h1>
+<h1 id="10">Rozdział 10</h1>
 <p id="title"> - Między liniami kodu</p>
 <p>
 
@@ -562,7 +562,7 @@ Miłosz szepnął:<br>
 
 
 
-<h1>Rozdział 11</h1>
+<h1 id="11">Rozdział 11</h1>
 <p id="title"> - Debugowanie uczucia</p>
 <p>
 
